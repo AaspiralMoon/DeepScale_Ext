@@ -1,0 +1,2 @@
+opt.py line 127: data_dir
+mot17_half.json line 2: root
